@@ -89,10 +89,9 @@ buttons = [
             text="🖤 𝐀𝐃𝐃 𝐒𝐈𝐍𝐍𝐄𝐑 𝐓𝐎 𝐆𝐑𝐎𝐔𝐏 🖤", url="t.me/zerosuperbot?startgroup=true"),
     ],
     [
+        InlineKeyboardButton(text="〝ɢʀ͜͡ᴏᴜᴘ〞", url=f"https://t.me/xxxsquad18plus"),
         InlineKeyboardButton(text="〝ⵢɪɴ͜͡ɴᴇʀ〞", url=f"https://t.me/lifeinsinn"),
-        InlineKeyboardButton(
-            text="〝ɢʀ͜͡ᴏᴜᴘ〞", url=f"https://t.me/{SUPPORT_CHAT}"
-        ),
+        InlineKeyboardButton(text="〝ɢʀ͜͡ᴏᴜᴘ〞", url=f"https://t.me/badgurls18plus"),
     ],
     [
         InlineKeyboardButton(text="🜏 ʜᴇʟᴘ + ᴄᴏᴍᴍᴀɴᴅs 🜏", callback_data="help_back"),
@@ -225,7 +224,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_video(
-            START_IMG, caption= "<code>Zaid is Here For You❤\nI am Awake Since</code>: <code>{}</code>".format(
+            START_IMG, caption= "<code>Sinner is Here For You❤\nI am Awake Since</code>: <code>{}</code>".format(
                 uptime            
             ),
             parse_mode=ParseMode.HTML,
@@ -304,7 +303,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "Here is the help for the *{}* module:\n".format(
+                "Powered by @lifeinsinn\nHere is the help for the *{}* module:\n".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
