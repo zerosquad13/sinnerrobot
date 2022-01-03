@@ -86,15 +86,15 @@ Hᴇʟʟᴏ! Usᴇʀ,🍻 I ᴀᴍ *〝ⵢɪɴ͜͡ɴᴇʀ〞*
 buttons = [
     [
         InlineKeyboardButton(
-            text="🖤 𝐀𝐃𝐃 𝐒𝐈𝐍𝐍𝐄𝐑 𝐓𝐎 𝐆𝐑𝐎𝐔𝐏 🖤", url="t.me/zerosuperbot?startgroup=true"),
+            text="💀 𝐎𝐍𝐋𝐘 𝐒𝐈𝐍𝐍𝐄𝐑 𝐂𝐀𝐍 𝐀𝐃𝐃 💀", url="t.me/zerosuperbot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="〝ɢʀ͜͡ᴏᴜᴘ〞", url=f"https://t.me/xxxsquad18plus"),
-        InlineKeyboardButton(text="〝ⵢɪɴ͜͡ɴᴇʀ〞", url=f"https://t.me/lifeinsinn"),
-        InlineKeyboardButton(text="〝ɢʀ͜͡ᴏᴜᴘ〞", url=f"https://t.me/badgurls18plus"),
+        InlineKeyboardButton(text="〝ɢʀᴏᴜᴘ〞", url=f"https://t.me/xxxsquad18plus"),
+        InlineKeyboardButton(text="〝sɪɴ͜͡ɴᴇʀ〞", url=f"https://t.me/lifeinsinn"),
+        InlineKeyboardButton(text="〝ɢʀᴏᴜᴘ〞", url=f"https://t.me/badgurls18plus"),
     ],
     [
-        InlineKeyboardButton(text="🜏 ʜᴇʟᴘ + ᴄᴏᴍᴍᴀɴᴅs 🜏", callback_data="help_back"),
+        InlineKeyboardButton(text="🜏 ʜᴇʟᴘ ᴄᴏᴍᴍʌɴᴅs 🜏", callback_data="help_back"),
     ],
 ]
 
