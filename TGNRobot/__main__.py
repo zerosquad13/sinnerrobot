@@ -74,10 +74,9 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*Hello {} !*
+*ʜᴇʟʟᴏ {} ! 🍻 ɪ ᴀᴍ 〝ⵢɪɴ‌ɴᴇʀ〞*
 ─────『[SINNER XXX](https://telegra.ph/file/844082a513e2a36935df3.mp4)』─────
-Hᴇʟʟᴏ! Usᴇʀ,🍻 I ᴀᴍ *〝ⵢɪɴ͜͡ɴᴇʀ〞*
-➪ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇxᴘʟᴏsɪᴠᴇ.
+💋 ɪ ᴄᴀɴ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍᴀɴʏ sᴘᴇᴄɪᴀʟ ғᴇᴀᴛᴜʀᴇs.
 ┏━━━━━━━━━━━━━━━━┓
 ┃➪ ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ʜᴇʟᴘ ᴛᴏ ┃ᴇxᴘʟᴏʀᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ ᴀɴᴅ ᴍʏ ┃ғᴇᴀᴛᴜʀᴇs.
 ┗━━━━━━━━━━━━━━━━┛
@@ -89,9 +88,9 @@ buttons = [
             text="💀 𝐎𝐍𝐋𝐘 𝐒𝐈𝐍𝐍𝐄𝐑 𝐂𝐀𝐍 𝐀𝐃𝐃 💀", url="t.me/zerosuperbot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="〝ɢʀᴏᴜᴘ〞", url=f"https://t.me/xxxsquad18plus"),
+        InlineKeyboardButton(text="ɢʀᴏᴜᴘ", url=f"https://t.me/xxxsquad18plus"),
         InlineKeyboardButton(text="〝sɪɴ͜͡ɴᴇʀ〞", url=f"https://t.me/lifeinsinn"),
-        InlineKeyboardButton(text="〝ɢʀᴏᴜᴘ〞", url=f"https://t.me/badgurls18plus"),
+        InlineKeyboardButton(text="ɢʀᴏᴜᴘ", url=f"https://t.me/badgurls18plus"),
     ],
     [
         InlineKeyboardButton(text="🜏 ʜᴇʟᴘ ᴄᴏᴍᴍʌɴᴅs 🜏", callback_data="help_back"),
@@ -100,11 +99,12 @@ buttons = [
 
 
 HELP_STRINGS = """
-Hᴇʏ ᴛʜᴇʀᴇ, I'ᴍ [〝ⵢɪɴ͜͡ɴᴇʀ〞](https://t.me/xxxsquad18plus)!
-Tᴏ ᴍᴀᴋᴇ ᴍᴇ ғᴜɴᴄᴛɪᴏɴᴀʟ, ᴍᴀᴋᴇ sᴜʀᴇ ᴛʜᴀᴛ ɪ ʜᴀᴠᴇ ᴇɴᴏᴜɢʜ ʀɪɢʜᴛs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
-Hᴇʟᴘғᴜʟ ᴄᴏᴍᴍᴀɴᴅs:
-- /start: Sᴛᴀʀᴛs ᴍᴇ! Yᴏᴜ'ᴠᴇ ᴘʀᴏʙᴀʙʟʏ ᴀʟʀᴇᴀᴅʏ ᴜsᴇᴅ ᴛʜɪs.
-- /help: Sᴇɴᴅs ᴛʜɪs ᴍᴇssᴀɢᴇ; I'ʟʟ ᴛᴇʟʟ ʏᴏᴜ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍʏsᴇʟғ!"""
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+█▀▄▀█ █▀▀ █▄░█ █░█
+█░▀░█ ██▄ █░▀█ █▄█
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ..
+ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [❤️](https://t.me/xxxsquad18plus)"""
 
 START_IMG = "https://telegra.ph/file/844082a513e2a36935df3.mp4"
 
