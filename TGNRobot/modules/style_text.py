@@ -1,6 +1,6 @@
-from VegetaRobot import dispatcher
-from VegetaRobot.modules.disable import DisableAbleCommandHandler
-from VegetaRobot.modules.helper_funcs.alternate import typing_action
+from TGNRobot import dispatcher
+from TGNRobot.modules.disable import DisableAbleCommandHandler
+from TGNRobot.modules.helper_funcs.alternate import typing_action
 from telegram import ParseMode
 from telegram.ext import run_async
 
