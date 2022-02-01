@@ -84,7 +84,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="💀 𝐎𝐍𝐋𝐘 𝐒𝐈𝐍𝐍𝐄𝐑 𝐂𝐀𝐍 𝐀𝐃𝐃 💀", url="t.me/zerosuperbot?startgroup=true"),
+            text="🍃⃝⃡͜҉💀ᬼ͜͡𝑶𝒏𝒍𝒚 𝑺𝒊𝒏𝒏𝒆𝒓ོ᪶ 𝑪𝒂𝒏 𝑨𝒅𝒅ྀ᪶͜͡💀⃝⃡͟͞҉🍃", url="t.me/zerosuperbot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ɢʀᴏᴜᴘ", url=f"https://t.me/xxxsquad18plus"),
