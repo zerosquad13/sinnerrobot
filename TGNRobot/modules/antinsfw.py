@@ -84,14 +84,14 @@ async def detect_nsfw(_, message):
         f"""
 **konten cabul terdeteksi & sukses dihapus!
 ————————————————————————**
-**sagapung:** {message.from_user.mention} [`{message.from_user.id}`]
+**Sagapung:** {message.from_user.mention} [`{message.from_user.id}`]
 **Safe:** `{results.neutral} %`
 **Porn:** `{results.porn} %`
 **Adult:** `{results.sexy} %`
 **Hentai:** `{results.hentai} %`
 **Drawings:** `{results.drawings} %`
 **————————————————————————**
-__Sange boleh, goblok jangan!.__
+__Sange boleh, Goblok jangan!.__
 """
     )
 
