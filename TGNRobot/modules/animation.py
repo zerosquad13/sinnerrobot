@@ -110,15 +110,15 @@ block_chain = [
 
 
 love_siren = [
-            "❤️❤️❤️🧡🧡🧡💚💚💚\n💙💙💙💜💜💜🖤🖤🖤",
-            "🖤🖤🖤💜💜💜💙💙💙\n❤️❤️❤️🧡🧡🧡💚💚💚",
-            "💛💛💛💙💙💙❤️❤️❤️\n💜💜💜❤️❤️❤️🧡🧡🧡",
-            "❤️❤️❤️🧡🧡🧡💚💚💚\n💙💙💙💜💜💜🖤🖤🖤",
-            "🖤🖤🖤💜💜💜💙💙💙\n❤️❤️❤️🧡🧡🧡💚💚💚",
-            "💛💛💛💙💙💙❤️❤️❤️\n💜💜💜❤️❤️❤️🧡🧡🧡",
-            "❤️❤️❤️🧡🧡🧡💚💚💚\n💙💙💙💜💜💜🖤🖤🖤",
-            "🖤🖤🖤💜💜💜💙💙💙\n❤️❤️❤️🧡🧡🧡💚💚💚",
-            "💛💛💛💙💙💙❤️❤️❤️\n💜💜💜❤️❤️❤️🧡🧡🧡"
+            "Iya Sayang\nLove you too 💕",
+            "Kangen sinner ya? wkwk\nChat aja siapa tau di bls",
+            "Meskipun dia owner mesum",
+            "Tapi dia ga baik\nDan agak sombong😎",
+            "Orang keren bebas sih\nMau gimana aja",
+            "Gausah minder\nGausah sungkan",
+            "Kasih pap aja\nPasti langsung diam",
+            "Yaudah gitu aja",
+            "Mwaaa 💋💋💋"
 ]
 
 
@@ -332,7 +332,7 @@ def love(update: Update, context: CallbackContext):
     for x in range(EDIT_TIMES):
         msg.edit_text(love_siren[x%5])
         time.sleep(EDIT_SLEEP)
-    msg.edit_text('True Love💞')
+    msg.edit_text('Sinner Keren 💞')
 
 
 
