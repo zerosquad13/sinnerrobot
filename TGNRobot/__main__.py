@@ -89,7 +89,7 @@ buttons = [
     [
         InlineKeyboardButton(text="ɢʀᴏᴜᴘ", url=f"https://t.me/xxxsquad18plus"),
         InlineKeyboardButton(text="〝sɪɴ͜͡ɴᴇʀ〞", url=f"https://t.me/lifeinsinn"),
-        InlineKeyboardButton(text="ɢʀᴏᴜᴘ", url=f"https://t.me/badgurls18plus"),
+        InlineKeyboardButton(text="ɢʀᴏᴜᴘ", url=f"https://t.me/dejavu_chat_room"),
     ],
     [
         InlineKeyboardButton(text="🜏 ʜᴇʟᴘ ᴄᴏᴍᴍʌɴᴅs 🜏", callback_data="help_back"),
